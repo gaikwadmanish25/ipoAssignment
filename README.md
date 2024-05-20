@@ -4,4 +4,5 @@ this react project contains react application. It contains 2 pages the first is 
 The main page contains the details button infront of every ipo listed using which we can navigate to the specific detail page of ipo. Also the detail page has Home option to navigate back to the main ipo list page.
 To run the project
 1. cd myapp
-2. npm start
+2. npm install [ it will install the node module first ]
+3. npm start
